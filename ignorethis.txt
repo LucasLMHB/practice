@@ -1,0 +1,3 @@
+This is a file that I want to ignore from the commit. 
+I ignore it by writing the full name of this file to gitignore in my folder.
+This can also be done to ignore entire folders by writing /foldername in gitignore. 
